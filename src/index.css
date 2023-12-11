@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#sidebar a.active {
+  color: green;
+}
+
+#banner-img {
+  border-radius: 100px 30px 100px 30px;
+}
